@@ -1,1 +1,3 @@
-
+Ce Dossier va contenir toute la théorie du code de fonctionnement du robot.
+C'est à dire :
+...
